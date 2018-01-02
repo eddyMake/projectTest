@@ -1,0 +1,22 @@
+# OS X
+.DS_Store
+SwiftDemo/.DS_Store
+
+# *.xccheckout
+projectTest/SwiftDemo.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad/*
+
+# Dir
+SwiftDemo/Pods/
+SwiftDemo/IPA/
+SwiftDemo/build/
+
+*.xcarchive
+builds/*
+.history
+
+# Xcode
+#
+build/
+DerivedData/
+xcuserdata/
+*contents.xcworkspacedata
